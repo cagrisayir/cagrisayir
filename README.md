@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer Cagri</h1>
-<h3 align="center">A passionate iOS Developer from Turkiye</h3>
+<h3 align="center">A passionate Software Engineer from Turkiye</h3>
 
-- 🌱 I’m currently learning **iOS development with Swift and SwiftUI**
+- 🌱 I’m currently learning **iOS development with Swift and SwiftUI**, and **Web Development** with **Java and Spring Boot**
 
 - 📫 How to reach me **omercagris@gmail.com**
 
