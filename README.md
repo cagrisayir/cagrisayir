@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omer Cagri</h1>
-<h3 align="center">A passionate Software Engineer from Turkiye</h3>
+<h2 align="center">A passionate Software Engineer from Turkiye</h2>
 
-- 🌱 I’m currently learning **Android development with Kotlin**, and **Backend Development** with **Java and Spring Boot**
+- 🌱 I’m currently building things as a **Full-Stack Developer**.
+- iOS Development with Swift and SwiftUI
+- Frontend Development with React.js
+- Backend Development with Node.js, Express.js etc.
 
 - 📫 How to reach me **omercagris@gmail.com**
 
